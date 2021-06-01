@@ -1,4 +1,4 @@
-# AndalusianPopulation
+# Andalusian Population
 [EN] This plugin has been developed to allow more accessibility to the information available about the socioeconomic structure of Andalusia. For both public organisms and private companies.
 
 
