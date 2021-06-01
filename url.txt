@@ -1,0 +1,6 @@
+contextualWMSLegend=0&crs=EPSG:25830&dpiMode=7&featureCount=10&format=image/png&layers=ortofotografia_2016_rgb&styles&url=http://www.ideandalucia.es/wms/ortofoto2016
+pagingEnabled='true' preferCoordinatesForWfsT11='false' restrictToRequestBBOX='1' srsname='EPSG:25830' typename='DERA_g13_limites_administrativos:g13_01_TerminoMunicipal' url='http://www.ideandalucia.es/services/DERA_g13_limites_administrativos/wfs' version='auto'abc
+pagingEnabled='true' preferCoordinatesForWfsT11='false' restrictToRequestBBOX='1' srsname='EPSG:25830' typename='grid:gridp_250' url='http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/grid/wfs' version='auto'
+pagingEnabled='true' preferCoordinatesForWfsT11='false' restrictToRequestBBOX='1' srsname='EPSG:25830' typename='gridcattp:gridcattp_250' url='http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/gridcattp/wfs' version='auto'
+pagingEnabled='true' preferCoordinatesForWfsT11='false' restrictToRequestBBOX='1' srsname='EPSG:25830' typename='mor:RMES_250_T' url='http://www.juntadeandalucia.es/institutodeestadisticaycartografia/geoserver-ieca/mor/wfs' version='auto'
+buffer
